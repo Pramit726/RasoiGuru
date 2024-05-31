@@ -10,7 +10,7 @@
   <p align="center">
     Ultimate culinary companion offering expert cooking guidance and ingredient tips seamlessly 
     <br />
-    <a href="https://github.com/Pramit726/RasoiGuru/assets/149934842/f3de02cd-b903-4ec1-b8cb-dca1f178195">View Demo</a>
+    <a href="https://github.com/Pramit726/RasoiGuru/assets/149934842/f3de02cd-b903-4ec1-b8cb-dca1f1781953">View Demo</a>
     ·
     <a href="https://github.com/Pramit726/RasoiGuru/blob/main/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
