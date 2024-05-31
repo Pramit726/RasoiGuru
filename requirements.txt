@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-community
+wikipedia
+pinecone-client
+langchain_pinecone
+langchain_groq
+langchain_cohere
+langchain_core
+pypdf
+fastapi
+# -e .
