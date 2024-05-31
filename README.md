@@ -10,7 +10,7 @@
   <p align="center">
     Ultimate culinary companion offering expert cooking guidance and ingredient tips seamlessly 
     <br />
-    <a href="https://github.com/Pramit726/RasoiGuru/assets/149934842/c453ac60-e91e-4990-929b-2f5b6f83767d">View Demo</a>
+    <a href="https://github.com/Pramit726/RasoiGuru/assets/149934842/f3de02cd-b903-4ec1-b8cb-dca1f178195">View Demo</a>
     ·
     <a href="https://github.com/Pramit726/RasoiGuru/blob/main/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
@@ -63,7 +63,11 @@ Deployed on Amazon Web Services (AWS), RasoiGuru offers easy access and utilizat
 - **API Recording**
 
 
-https://github.com/Pramit726/RasoiGuru/assets/149934842/c453ac60-e91e-4990-929b-2f5b6f83767d
+https://github.com/Pramit726/RasoiGuru/assets/149934842/f3de02cd-b903-4ec1-b8cb-dca1f1781953
+
+
+
+
 
 <br/>
 
