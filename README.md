@@ -1,9 +1,10 @@
 <a id="top"></a>
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://github.com/Pramit726/RasoiGuru/assets/149934842/1e6708e9-86b7-4fc9-a87f-b1355bd20e31" alt="Logo" width="80" height="80">
+  <img src="https://github.com/user-attachments/assets/899257e4-3087-4bc0-a8ee-48a6fac0b740" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">RasoiGuru</h3>
 
@@ -54,7 +55,8 @@ Deployed on Amazon Web Services (AWS), RasoiGuru offers easy access and utilizat
 
 ## Architecture
 
-<img src="https://github.com/Pramit726/RasoiGuru/assets/149934842/1c070d8f-73f1-4ee5-9a27-bca1c70db104" alt="architecture" width="840" height="663">
+
+<img src="https://github.com/user-attachments/assets/8fbefac1-f466-4516-8d2e-a5d1b966ca2e" alt="architecture" width="840" height="663">
 
 <!-- PROJECT DEMO -->
 ## API information
@@ -73,7 +75,8 @@ https://github.com/Pramit726/RasoiGuru/assets/149934842/f3de02cd-b903-4ec1-b8cb-
 
 - **API Information**
 
-<img src="https://github.com/Pramit726/RasoiGuru/assets/149934842/97061fc0-3bb0-4731-93cc-12018e984991" alt="API-info" width="1000" height="500">
+
+<img src="https://github.com/user-attachments/assets/df097d67-a135-4656-aeba-dbe31eb6c84b" alt="API-info" width="1000" height="500">
 
 ``/``: Check service status
 
@@ -92,8 +95,8 @@ This project requires the following API keys:
 - **Groq API key:** Required for accessing the LLM.
 
 LangSmith facilitates usage tracking and provides valuable insights into user behavior through seamless integration. The screenshot below illustrates a sample view of RasoiGuru usage data within the LangSmith platform.
+![Screenshot 2024-05-29 202807](https://github.com/user-attachments/assets/6ba5277e-06f1-4572-839c-f43a3409a992)
 
-![App Screenshot](https://github.com/Pramit726/RasoiGuru/assets/149934842/e42ef8e3-13fb-4bd7-85ef-2e716f80b9cb)
 <br/>
 <br/>
 
